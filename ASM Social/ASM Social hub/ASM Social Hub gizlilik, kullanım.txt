@@ -1,0 +1,9 @@
+ASM Social Hub
+GIZLILIK & İÇERİK POLİTİKASI
+· Uygulama, sohbetler gibi sosyal islevler içerir ve amaç kullanicilarin bilgi paylasabilecegi.
+· Sonuç olarak, uygulama kullanicidan resimler veya dogum günü gibi kisisel verileri girmesini isteyebilir.
+· Bu kisisel veriler, uygulamanin diger kullanicilarina gösterilir. Ayrica, yalnizca bu uygulamalarin kullanicilari arasinda iletisime izin vermek amaciyla bu uygulamayla ayni sistemle olusturulmus diger uygulamalarin kullanicilarina gösterilir.
+· Kullanicilar, uygulamadaki kullanici profili seçeneklerinde bulunan bu amaç için baglantiyi kullanarak kisisel verilerini silebilirler.
+· Cinsel içerikli resimler veya asiri siddet resimleri gibi yalnizca yetiskinler için içerik yayinlamak yasaktir.
+· Kullanici tarafindan girilen Görüntüler ve Videolar, daha sonra kullanicinin kendisi tarafindan alinmak üzere uygulama sunucusuna gönderilir ve böylece uygulama, açiklamasina göre islevleri sunabilir.
+· Uygulamamizi ziyaret ettiginizde üçüncü taraf sirketlerin reklam sunmasina ve belirli anonim bilgileri toplamasina izin veriyoruz. Bu sirketler, Google Reklam Kimliginiz, cihazinizin türü ve sürümü, göz atma etkinligi, reklam saglamak için cihazinizla ilgili konum ve diger teknik veriler.
